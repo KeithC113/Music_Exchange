@@ -1,8 +1,10 @@
 package ProductType.Instruments.Strings;
 
+import Behaviours.IPluck;
+import Behaviours.ISell;
 import ProductType.Instruments.Instruments;
 
-public abstract class Strings extends Instruments{
+public abstract class Strings extends Instruments implements IPluck, ISell {
 
     private int numberOfStrings;
 
@@ -14,4 +16,5 @@ public abstract class Strings extends Instruments{
     public int getNumberOfStrings() {
         return numberOfStrings;
     }
+
 }

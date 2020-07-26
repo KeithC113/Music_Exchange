@@ -1,7 +1,8 @@
 package Behaviours;
 
-import ProductType.Instruments.Strings.Guitar;
+import ProductType.Instruments.Strings.Strings;
 
 public interface IPluck {
-    public void pluck(Guitar guitar);
+    public void pluck(Strings strings);
+
 }

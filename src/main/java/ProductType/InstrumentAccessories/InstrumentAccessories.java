@@ -1,11 +1,9 @@
 package ProductType.InstrumentAccessories;
 
+import Behaviours.ISell;
 import ProductType.ProductType;
 
-
-
-
-public class InstrumentAccessories extends ProductType {
+public class InstrumentAccessories extends ProductType implements ISell {
 
     private String description;
 
@@ -16,4 +14,9 @@ public class InstrumentAccessories extends ProductType {
     }
 
     public String getDescription() { return description;}
+
+    public double calculateProfit(ProductType productType) {
+        double profit = productType.getSellPrice() - productType.getBuyPrice();
+        return profit;
+    }
 }

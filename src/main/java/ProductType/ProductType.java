@@ -1,6 +1,8 @@
 package ProductType;
 
-public abstract class ProductType {
+import Behaviours.ISell;
+
+public abstract class ProductType implements ISell {
     private String material;
     private String colour;
     private double buyPrice;

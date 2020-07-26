@@ -1,8 +1,9 @@
 package ProductType.Instruments;
 
+import Behaviours.ISell;
 import ProductType.ProductType;
 
-public abstract class Instruments extends ProductType {
+public abstract class Instruments extends ProductType implements ISell {
 
     private String make;
     private String model;
@@ -26,5 +27,6 @@ public abstract class Instruments extends ProductType {
     public String getSound() {
         return sound;
     }
+
 
 }

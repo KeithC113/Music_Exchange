@@ -1,6 +1,7 @@
 package ProductType.Instruments.Percussion;
 
 import Behaviours.IBeat;
+
 import ProductType.Instruments.Instruments;
 
 public abstract class Percussion extends Instruments implements IBeat {
