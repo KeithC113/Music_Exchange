@@ -1,4 +1,4 @@
-package Instruments;
+package ProductType.Instruments;
 
 import ProductType.Instruments.Percussion.Drums;
 import org.junit.Before;
@@ -20,5 +20,16 @@ public class DrumsTest {
         public void hasSound() {
             assertEquals("taaaattsssssch", drums.getSound());
         }
+
+        @Test
+        public void hasMake(){
+            assertEquals("Gretch", drums.getMake());
+        }
+
+        @Test
+        public void hasMaterial(){assertEquals("wood", drums.getMaterial());}
+
+        @Test
+        public void hasSellPrice(){assertEquals(200, drums.getSellPrice(),1);}
 
 }

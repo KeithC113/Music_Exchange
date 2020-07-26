@@ -8,3 +8,4 @@ public abstract class Brass extends Instruments {
         super(material, colour, buyPrice, sellPrice, make, model, sound);
     }
 }
+

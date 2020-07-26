@@ -16,10 +16,11 @@ public abstract class ProductType {
     public double getBuyPrice() {
         return buyPrice;
     }
-
     public double getSellPrice() {
         return sellPrice;
     }
+    public String getMaterial() { return material; }
+    public String getColour() {return colour; }
 
     public void setBuyPrice(double buyPrice) {
         this.buyPrice = buyPrice;
@@ -28,4 +29,5 @@ public abstract class ProductType {
     public void setSellPrice(double sellPrice) {
         this.sellPrice = sellPrice;
     }
+
 }
