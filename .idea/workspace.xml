@@ -2,41 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f1dc002-feb4-4b9e-a27a-66243f12c3d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/behaviours/IPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/behaviours/ISell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/music_shop/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/music_shop/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/music_shop/InstrumentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/music_shop/MusicBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/music_shop/MusicStand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/music_shop/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/music_shop/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/main/java/music_shop/StockItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/test/java/GuitarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/test/java/MusicBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/test/java/MusicStandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/test/java/PianoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_solution/src/test/java/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/main/java/behaviours/IPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/main/java/behaviours/ISell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/main/java/music_shop/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/main/java/music_shop/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/main/java/music_shop/MusicBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/main/java/music_shop/MusicStand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/main/java/music_shop/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/main/java/music_shop/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/test/java/GuitarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/test/java/MusicBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/test/java/MusicStandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/test/java/PianoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/src/test/java/ShopTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/IBeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/IBeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/IPluck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/IPluck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/IToot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/IToot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/InstrumentAccessories/Brass/TrumpetValves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/InstrumentAccessories/Brass/TrumpetValves.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/InstrumentAccessories/InstrumentAccessories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/InstrumentAccessories/InstrumentAccessories.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Brass/Brass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Brass/Brass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Brass/Trombone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Brass/Trombone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Brass/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Brass/Trumpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Instruments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Instruments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Percussion/Drums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Percussion/Drums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Percussion/Percussion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Percussion/Percussion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Strings/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Strings/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Strings/Harp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Strings/Harp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/Instruments/Strings/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductType/ProductType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductType/ProductType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Behaviours/IPluck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Behaviours/IPluck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/InstrumentAccessories/Brass/TrumpetValves.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/InstrumentAccessories/Brass/TrumpetValves.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/InstrumentAccessories/InstrumentAccessories.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/InstrumentAccessories/InstrumentAccessories.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Brass/Brass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Brass/Brass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Brass/Trombone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Brass/Trombone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Brass/Trumpet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Brass/Trumpet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Instruments.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Instruments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Percussion/Drums.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Percussion/Drums.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Percussion/Percussion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Percussion/Percussion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Strings/Guitar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Strings/Guitar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Strings/Harp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Strings/Harp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Strings/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/Instruments/Strings/Strings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProductType/ProductType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProductType/ProductType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ProductType/IntrumentAccessories/TrumpetValvesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ProductType/IntrumentAccessories/TrumpetValvesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Shop.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,19 +70,22 @@
     </option>
   </component>
   <component name="ProjectId" id="1f8JKUhvzOyy612KF2VjzthETj6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -160,8 +167,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ShopTest" />
-        <item itemvalue="JUnit.DrumsTest" />
         <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.DrumsTest" />
         <item itemvalue="JUnit.ShopTest.stockStartsAtZero" />
         <item itemvalue="JUnit.TrumpetValvesTest" />
       </list>
@@ -183,6 +190,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="338" y="126" key="#ShopTest.stockStartsAtZero" timestamp="1595782042932">
       <screen x="0" y="23" width="1440" height="834" />
@@ -192,11 +202,11 @@
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="204" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.835@0.23.1440.835" timestamp="1595605895159" />
-    <state x="165" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1595786393395">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state x="165" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1595859163796">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="165" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833@0.23.1440.833" timestamp="1595786393395" />
-    <state x="165" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1595781055670" />
+    <state x="165" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1595859163796" />
     <state x="165" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1440.835@0.23.1440.835" timestamp="1595760259373" />
     <state x="233" y="430" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595613638923">
       <screen x="0" y="23" width="1440" height="834" />
@@ -216,42 +226,42 @@
       <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="552" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.833@0.23.1440.833" timestamp="1595787248028" />
-    <state width="1358" height="202" key="GridCell.Tab.0.bottom" timestamp="1595792390769">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom" timestamp="1595859195919">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1595792390769" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1595793006691" />
     <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1595788701295" />
     <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1595787272389" />
-    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1595786745210" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1595859195919" />
     <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1595760337312" />
-    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1595607690931" />
-    <state width="1358" height="202" key="GridCell.Tab.0.center" timestamp="1595792390769">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1595851000657" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center" timestamp="1595859195919">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1595792390769" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1595793006690" />
     <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1595788701294" />
     <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1595787272388" />
-    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1595786745209" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1595859195919" />
     <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1595760337311" />
-    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1595607690930" />
-    <state width="1358" height="202" key="GridCell.Tab.0.left" timestamp="1595792390768">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1595851000657" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left" timestamp="1595859195918">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1595792390768" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1595793006690" />
     <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1595788701294" />
     <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1595787272388" />
-    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1595786745209" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1595859195918" />
     <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1595760337311" />
-    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1595607690930" />
-    <state width="1358" height="202" key="GridCell.Tab.0.right" timestamp="1595792390769">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1595851000656" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right" timestamp="1595859195919">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1595792390769" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1595793006691" />
     <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1595788701294" />
     <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1595787272389" />
-    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1595786745210" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1595859195919" />
     <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1595760337311" />
-    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1595607690930" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1595851000657" />
     <state width="1358" height="251" key="GridCell.Tab.1.bottom" timestamp="1595781993226">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
@@ -272,6 +282,10 @@
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="310" y="131" key="Maven.ArtifactSearchDialog/0.23.1440.835@0.23.1440.835" timestamp="1595756624831" />
+    <state x="255" y="137" key="SettingsEditor" timestamp="1595841834694">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="255" y="137" key="SettingsEditor/0.23.1440.836@0.23.1440.836" timestamp="1595841834694" />
     <state x="172" y="174" width="1200" height="591" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595759317073">
       <screen x="0" y="23" width="1440" height="835" />
     </state>

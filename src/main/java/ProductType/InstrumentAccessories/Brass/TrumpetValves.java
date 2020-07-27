@@ -13,4 +13,8 @@ public class TrumpetValves extends InstrumentAccessories implements ISell {
     }
 
     public int getNumberOfValves() { return numberOfValves;}
+
+    public double calculateMarkup() {
+        return  - this.getSellPrice();
+    }
 }

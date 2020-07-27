@@ -5,35 +5,19 @@ import java.util.ArrayList;
 
 public class Shop {
 
-    private ArrayList<ProductType> stock;
-    private int till;
+    private ArrayList<ISell> stock;
 
-    public Shop(int till) {
-        this.till = 1000;
-        this.stock = new ArrayList<ProductType>();
+    public Shop() {
+        this.stock = new ArrayList<ISell>();
     }
+        public int stockCount() { return stock.size();}
 
-    public int stockCount() { return stock.size();}
-//
-//        public void calculateProfit (ProductType productType){
-//
-//        }
-//
-        public ArrayList<ProductType> getStock () {return stock;}
-
-        public int getTill () {return till;}
-
-        //    @Override
-        public void addItemToStock (ProductType productType){
-            stock.add(productType);
-            till -= productType.getBuyPrice();
+        public void addItemToStock (ISell item ){
+            stock.add(item);
         }
-        //
-        public void sellItem (ProductType productType){
-            stock.remove(productType);
-            till += productType.getSellPrice();
-//                customer.buyItem(productType);
+        public void sellItem (ISell item ){
+            stock.remove(item);
         }
-
 }
+
 
